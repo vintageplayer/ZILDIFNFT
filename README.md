@@ -82,3 +82,6 @@ A fraction of profits generated in Marketplace Contract will be distributed to t
 2. Performance Analystics on fund managers
 3. Connecting with Marketplaces
 4. Give Options of public/private funds
+
+## Contact
+EmailID: adityag2511@gmail.com
